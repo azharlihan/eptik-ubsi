@@ -20,6 +20,9 @@ comments: false
 * Simple navigation menu
 * MathJax support
 
+## Kelompok 4
+## Mata Kuliah Etika Profesional TIK
+
 ## Preview
 
 {% capture images %}
