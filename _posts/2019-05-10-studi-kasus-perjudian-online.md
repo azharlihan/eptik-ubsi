@@ -50,4 +50,4 @@ Namun, dalam melakukan penangkapan terdapat prosedur yang harus dijalankan yang 
 Hukuman yang diberikan dalam permainan judi online bola dirasa sangat ringan dan kurang memberatkan pelakunya. Hal inilah yang menjadi alasan utama seorang penjudi untuk tidak jera melakukan praktek perjudian meskipun ia berulang kali masuk penjara. Oleh sebab itu, alangkah baiknya Pasal 45 UU ITE yaitu pidana penjara paling lama 6 (enam) tahun dan atau denda paling banyak Rp 1 miliar direvisi oleh aparat yang berwenang. Dengan adanya hukuman yang seberat – beratnya dan setimpal diharapkan para penjudi ini jera dan praktek perjudian akan bisa terberantas sampai tuntas.
 
 
-[Kesimpulan dan Saran]({{ site.url }}/kesimpulan-dan-saran).
+[Kesimpulan dan Saran](https://eptik-ubsi.azharlihan.com/kesimpulan-dan-saran).
