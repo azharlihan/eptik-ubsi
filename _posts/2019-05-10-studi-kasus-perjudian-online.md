@@ -9,7 +9,7 @@ Cyberlaw bisa diartikan sebagai hukum yang digunakan di dunia cyber yaitu dunia 
 
 Untuk itu diperlukan suatu perangkat UU yang dapat mengatasi masalah ini, seperti sekarang telah adanya perangkat hukum yang berhasil di golkan, yaitu Undang – Undang Informasi dan Transaksi Elektronik (UU ITE). UU yang terdiri dari 13 Bab dan 54 Pasal serta Penjelasan ini disahkan setelah melalui Rapat Paripurna DPR RI pada Selasa, 25 Maret 2008. Namun sejatinya perjalanan perangkat hukum yang sangat penting bagi kepastian hukum di dunia maya ini sebenarnya sudah dimulai 5 tahun yang lalu. (Kominfo, 2008)
 
-### Studi Kasus _PERJUDIAN ONLINE LIGA SEPAK BOLA DI SEMARANG DAN LAMONGAN TAHUN 2006_
+## Studi Kasus _PERJUDIAN ONLINE LIGA SEPAK BOLA DI SEMARANG DAN LAMONGAN TAHUN 2006_
 
 Seperti yang kita ketahui, perjudian adalah tindakan yang melanggar hukum, sama halnya dengan perjudian online. Dalam pembahasan ini, perjudian yang dilakukan yaitu pertaruhan pertandingan sepak bola Liga Inggris, Liga Italia dan Liga Jerman yang ditayangkan di televisi pada tahun 2006. Perjudian online ini terjadi di dua daerah bersamaan yaitu di Semarang, Jawa Tengah dan di Lamongan Jawa Timur. Judi online di Semarang tersebut beroperasi lewat situs [www.sc30.net](www.sc30.net), sedangkan di Lamongan menggunakan alamat situs [www.sbobet.com](www.sbobet.com). Untuk kasus perjudian online di Semarang, prakteknya menggunakan sistem member yang semua anggotanya mendaftar pada admin dalam dua situs atau menghubungi no hp 0811XXXXXXXX dan 024-356XXXX, setiap petaruh memasang uang Rp. 100.000 hingga 20.000.000.
 
