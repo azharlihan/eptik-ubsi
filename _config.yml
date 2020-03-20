@@ -68,7 +68,6 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-gem "jekyll", "~> 3.2.1"
 
 jekyll-mentions:
     base_url: https://github.com
